@@ -18,7 +18,6 @@ We invite all those who participate in LA-100 to help us create safe and positiv
 ### 3. LA-100 Citizenship
 
 A supplemental goal of this Code of Conduct is to increase WNE citizenship by encouraging participants to recognize and strengthen the relationships between our actions and their effects on our community. Communities mirror the societies in which they exist and positive action is essential to counteract the many forms of inequality and abuses of power that exist in society. If you see someone who is making an extra effort to ensure our community is welcoming, friendly, and encourages all participants to contribute to the fullest extent, we want to know.
-<HOW DO WE MAKE THIS VISIBLE?>
 
 ### 4. Expected Behavior
 
@@ -72,17 +71,25 @@ If a community member engages in unacceptable behavior, procedures as outlined i
 
 We expect all community participants (students, faculty members, administrators, and guests) to abide by this Code of Conduct in all community venues–online and in-person–as well as in all one-on-one communications pertaining to community business.
 
-### 7. Timeliness
-All members of the LA 100 community are expected to....
+### 7. Late Policy
 
-### 8. Participation
-TBD
+A deliverable is late when it is submitted after the due date and time. Legitimate lateness reasons include approved illness, family emergencies and death, and athlectic events. 
 
-### 9. Attention
-TBD
+All deliverables have one grace day after the due date. Submissions that come in after the grace day will be docked one grade per day. **Deliverables that will be discussed in class have no late days allowed.** 
 
-### 10. Contact info
-Heidi Ellis - ellis@wne.edu
+### 8. Absence/Participation Policy
+Participation is defined as being awake, alert and attentive during class, engaged in the class including raising your hand, doing your work, contributing to group work, and sharing thoughts. Being absent from class is defined as not being present physically or mentally including not here for more than half the class physically. A legitimate absence includes sickness, family emergency, informed previous commitment such as sports or club travel, weather-related reasons.
+
+ * Arriving at class between 3 and 20 minutes after the start of class is considered "late". Arriving 20 minutes or more after the class starts is considered "absent". 
+ * Up to 6 absences or latenesses are allowed, not including legitimate absence/latenesses. For every unexcused absence or lateness after 6, one point (1%) ill be taken off the final grade. 
+ * The instructor has no obligation to provide extra support or time for unexcused absences or lateness. 
+
+### 9. Disruption Policy
+Students should pay attention to the instructor and engage in all classroom activities. Students' focus should be on the activities within the classroom and not on anything else. A  distraction in the classroom is when an event or action grabs someone's attention and prevents them from fully immersing in the classroom. Examples of a distraction include making a sound (whispers, phone's sound, keyboard's typing sounds). In this setting it would been seen as a student not giving the instructor or fellow students their focus in favor of something else, such as a cellphone or class-unrelated business on a computer. Distractions impair students' ability to focus on class. Students with emergencies are allowed to leave class momentarily and take the phone call or whatever is necessary outside of the classroom. Students with other valid reasons for distractions such as a disability are not penalized. 
+
+Each student is allowed three official distractions strikes per semester. After the third strike, students will lose 1 point off their final grade. 
+
+
 
 ### 11. License and attribution
 
